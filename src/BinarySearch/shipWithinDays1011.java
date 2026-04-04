@@ -2,6 +2,9 @@ package BinarySearch;
 
 public class shipWithinDays1011 {
     class Solution {
+
+        //410. Split Array Largest Sum Same Question
+
         // This problem uses binary search to find the minimum capacity required to ship all packages within D days.
         // We binary search on the possible capacities: from the maximum weight (minimum possible capacity) to the sum of all weights (maximum possible capacity).
         // For each mid capacity, we check if it's feasible to ship within D days using a greedy approach.
