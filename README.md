@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0022-generate-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Divide and Conquer
 |  |
 | ------- |
