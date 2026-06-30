@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
