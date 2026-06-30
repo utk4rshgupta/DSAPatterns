@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0771-jewels-and-stones) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0022-generate-parentheses) |
+| [0383-ransom-note](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0771-jewels-and-stones) |
@@ -59,5 +61,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
