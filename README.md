@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0238-product-of-array-except-self) |
+| [0506-relative-ranks](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0506-relative-ranks) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
 | [1288-remove-covered-intervals](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1288-remove-covered-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0506-relative-ranks) |
 | [1288-remove-covered-intervals](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1288-remove-covered-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0295-find-median-from-data-stream) |
+| [0506-relative-ranks](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
