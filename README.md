@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0238-product-of-array-except-self) |
 | [0506-relative-ranks](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0733-flood-fill) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
 | [0994-rotting-oranges](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0994-rotting-oranges) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3658-gcd-of-odd-and-even-sums) |
