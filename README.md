@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0238-product-of-array-except-self) |
 | [0506-relative-ranks](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0733-flood-fill) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0022-generate-parentheses) |
+| [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0994-rotting-oranges) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0994-rotting-oranges) |
 ## Binary Search
