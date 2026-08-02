@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
 | [0994-rotting-oranges](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1288-remove-covered-intervals) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0022-generate-parentheses) |
 | [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3536-maximum-product-of-two-digits) |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
