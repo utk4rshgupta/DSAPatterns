@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3731-find-missing-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
