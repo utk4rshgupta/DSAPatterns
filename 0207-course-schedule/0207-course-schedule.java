@@ -1,37 +1,34 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        int[] vis = new int[numCourses];
-        int[] pathVis = new int[numCourses];
-        
-        List<List<Integer>> adj= new ArrayList<>();
-        for(int i =0;i<numCourses;i++){
-            adj.add(new ArrayList<>());
-        }
-        for(int[] prereq : prerequisites){
-            adj.get(prereq[1]).add(prereq[0]);
-        }
+       int[] vis = new int[numCourses];
+       int[] pathVis = new int[numCourses];
+       ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
-        for(int i =0 ; i<numCourses;i++){
-            if(vis[i] == 0){
-                if(dfs(i , adj, vis , pathVis)) return false;
-            }
+       for(int i =0;i<numCourses;i++){
+        adj.add(new ArrayList<>());
+       }
+
+       for(int[] edge: prerequisites){
+        adj.get(edge[1]).add(edge[0]);
+       }
+
+       for(int i =0;i<numCourses;i++){
+        if(vis[i] == 0){
+            if(dfs(i, adj  , vis , pathVis)) return false;
         }
-        return true ;
+       }
+       return true;
     }
 
-    private boolean dfs( int node ,List<List<Integer>> adj , int[] vis , int[] pathVis){
-        vis[node] = 1 ;
+    private boolean dfs(int node , ArrayList<ArrayList<Integer>> adj, int[] vis , int[] pathVis){
+        vis[node] = 1;
         pathVis[node] = 1;
 
         for(int it : adj.get(node)){
-            
-            if(vis[it] == 0){
+            if(vis[it] ==0){
                 if(dfs(it , adj , vis , pathVis)) return true;
             }
-            else if(pathVis[it]==1){
-                return true;
-            }
-           
+            else if(pathVis[it] == 1 ) return true;
         }
         pathVis[node] = 0;
         return false;
