@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0387-first-unique-character-in-a-string) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0387-first-unique-character-in-a-string) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0100-same-tree) |
+| [0127-word-ladder](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0207-course-schedule) |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
