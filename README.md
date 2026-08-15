@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
 | ------- |
