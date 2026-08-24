@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
 | [0994-rotting-oranges](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1288-remove-covered-intervals) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
+| [0997-find-the-town-judge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1331-rank-transform-of-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0802-find-eventual-safe-states) |
+| [0997-find-the-town-judge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0997-find-the-town-judge) |
 | [2050-parallel-courses-iii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2050-parallel-courses-iii) |
 ## Tree
 |  |
