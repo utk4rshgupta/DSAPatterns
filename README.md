@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2050-parallel-courses-iii) |
 ## Backtracking
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0997-find-the-town-judge) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2050-parallel-courses-iii) |
 ## Tree
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2050-parallel-courses-iii) |
 ## Kosaraju's Algorithm
 |  |
@@ -327,8 +330,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
