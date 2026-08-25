@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3731-find-missing-elements) |
 ## String
 |  |
