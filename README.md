@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
+| [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
 | [0997-find-the-town-judge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0997-find-the-town-judge) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
+| [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0771-jewels-and-stones) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
 | [1927-sum-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1927-sum-game) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -210,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -226,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1319-number-of-operations-to-make-network-connected) |
