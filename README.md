@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1631-path-with-minimum-effort) |
+| [1854-maximum-population-year](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1854-maximum-population-year) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2050-parallel-courses-iii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -148,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0387-first-unique-character-in-a-string) |
+| [1854-maximum-population-year](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1854-maximum-population-year) |
 | [2206-divide-array-into-equal-pairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0238-product-of-array-except-self) |
+| [1854-maximum-population-year](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1854-maximum-population-year) |
 | [3903-smallest-stable-index-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
