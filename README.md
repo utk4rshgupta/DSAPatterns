@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
+| [0731-my-calendar-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0238-product-of-array-except-self) |
+| [0731-my-calendar-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0731-my-calendar-ii) |
 | [1854-maximum-population-year](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1854-maximum-population-year) |
 | [2848-points-that-intersect-with-cars](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2848-points-that-intersect-with-cars) |
 | [3903-smallest-stable-index-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3903-smallest-stable-index-i) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0295-find-median-from-data-stream) |
+| [0731-my-calendar-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0731-my-calendar-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0731-my-calendar-ii) |
 | [1631-path-with-minimum-effort](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Number Theory
@@ -400,4 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
