@@ -13,13 +13,9 @@ class MyCalendarTwo {
             count += entry.getValue();
             if (count > 2) {
                 line.put(startTime, line.getOrDefault(startTime, 0) - 1);
-                if (line.get(startTime) == 0) {
-                    line.remove(startTime);
-                }
+                
                 line.put(endTime, line.getOrDefault(endTime, 0) + 1);
-                if (line.get(endTime) == 0) {
-                    line.remove(endTime);
-                }
+                
                 return false;
             }
 
