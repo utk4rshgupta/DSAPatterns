@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2206-divide-array-into-equal-pairs) |
 | [2848-points-that-intersect-with-cars](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1331-rank-transform-of-an-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2094-finding-3-digit-even-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2206-divide-array-into-equal-pairs) |
 | [2848-points-that-intersect-with-cars](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2094-finding-3-digit-even-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3536-maximum-product-of-two-digits) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting Sort
 |  |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
