@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
