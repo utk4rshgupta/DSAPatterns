@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2050-parallel-courses-iii) |
