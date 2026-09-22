@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0434-number-of-segments-in-a-string) |
 | [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
 | [1927-sum-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -452,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1401-circle-and-rectangle-overlapping) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
