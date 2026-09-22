@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0746-min-cost-climbing-stairs) |
+| [0804-unique-morse-code-words](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0804-unique-morse-code-words) |
 | [0827-making-a-large-island](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
 | [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0997-find-the-town-judge) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
 | [1927-sum-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
