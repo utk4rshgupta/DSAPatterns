@@ -13,6 +13,5 @@ class Solution {
         helper(n,result,open+1,close,str+"(");
         if(close<open)
         helper(n,result,open,close+1,str+")");
-    }
-
+    } 
 }
