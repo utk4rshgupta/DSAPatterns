@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0509-fibonacci-number) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0509-fibonacci-number) |
@@ -489,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
