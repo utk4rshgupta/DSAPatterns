@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
