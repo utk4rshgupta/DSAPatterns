@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2206-divide-array-into-equal-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2848-points-that-intersect-with-cars](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2848-points-that-intersect-with-cars) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3536-maximum-product-of-two-digits) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0731-my-calendar-ii) |
 | [1631-path-with-minimum-effort](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Number Theory
 |  |
 | ------- |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
