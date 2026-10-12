@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2848-points-that-intersect-with-cars) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2206-divide-array-into-equal-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2848-points-that-intersect-with-cars](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2848-points-that-intersect-with-cars) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2206-divide-array-into-equal-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
