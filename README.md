@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2094-finding-3-digit-even-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2206-divide-array-into-equal-pairs) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2778-sum-of-squares-of-special-elements) |
