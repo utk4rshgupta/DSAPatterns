@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
 | [0890-find-and-replace-pattern](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0890-find-and-replace-pattern) |
+| [0896-monotonic-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1020-number-of-enclaves) |
