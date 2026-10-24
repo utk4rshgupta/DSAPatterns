@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1360-number-of-days-between-two-dates](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1360-number-of-days-between-two-dates) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
+| [1360-number-of-days-between-two-dates](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2409-count-days-spent-together) |
