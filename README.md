@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2409-count-days-spent-together](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
