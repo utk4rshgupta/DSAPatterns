@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1154-day-of-the-year](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1360-number-of-days-between-two-dates](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1360-number-of-days-between-two-dates) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
+| [1154-day-of-the-year](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1927-sum-game) |
