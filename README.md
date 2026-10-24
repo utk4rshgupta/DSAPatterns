@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3345-smallest-divisible-digit-product-i) |
