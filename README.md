@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0213-house-robber-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
