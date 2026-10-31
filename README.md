@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3731-find-missing-elements) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2050-parallel-courses-iii) |
+| [3665-twisted-mirror-path-count](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/utk4rshgupta/DSAPatterns/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
