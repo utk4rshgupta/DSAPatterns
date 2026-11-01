@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0238-product-of-array-except-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0295-find-median-from-data-stream) |
 | [0389-find-the-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0836-rectangle-overlap) |
