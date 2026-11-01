@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0238-product-of-array-except-self) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0506-relative-ranks](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0836-rectangle-overlap) |
