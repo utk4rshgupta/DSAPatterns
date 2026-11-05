@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1631-path-with-minimum-effort) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2094-finding-3-digit-even-numbers) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0295-find-median-from-data-stream) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Design
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0731-my-calendar-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/utk4rshgupta/DSAPatterns/tree/master/2333-minimum-sum-of-squared-difference) |
