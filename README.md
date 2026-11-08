@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0031-next-permutation) |
 | [0063-unique-paths-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0064-minimum-path-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0004-median-of-two-sorted-arrays) |
 | [0731-my-calendar-ii](https://github.com/utk4rshgupta/DSAPatterns/tree/master/0731-my-calendar-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1631-path-with-minimum-effort](https://github.com/utk4rshgupta/DSAPatterns/tree/master/1631-path-with-minimum-effort) |
